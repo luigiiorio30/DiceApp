@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DiceApp</string>
+    <string name="dice1">1</string>
+    <string name="dice2">2</string>
+    <string name="dice3">3</string>
+    <string name="dice4">4</string>
+    <string name="dice5">5</string>
+    <string name="dice6">6</string>
+    <string name="roll">Roll the dice</string>
+</resources>
